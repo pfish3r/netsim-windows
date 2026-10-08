@@ -1,0 +1,11 @@
+# Generated files and local traffic data
+*.exe
+*.pdb
+*.log
+*.tsv
+*.pcap
+*.pcapng
+work/
+.vs/
+bin/
+obj/
